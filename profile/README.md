@@ -27,7 +27,7 @@ into one visual-first workspace.
 
 ## Status
 
-Public Website Live
+Live Website
 
 🌐 https://panvas.vercel.app
 
