@@ -2,7 +2,7 @@
 
 Think. Sketch. Write. Build.
 
-Panvas is a visual research workspace built for engineers, researchers and creators.
+Panvas is a visual research workspace built for engineers, researchers, creators & students.
 
 ## Vision
 
